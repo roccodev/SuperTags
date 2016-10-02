@@ -1,0 +1,9 @@
+name: SuperTags
+author: RoccoDeveloping
+version: 2.0
+main: tk.roccodev.supertags.SuperTags
+commands:
+ tag:
+  usage: /tag <set/remove> <PLAYER> [PREFIX]
+  permission: supertags.tag
+  description: Set/Remove a prefix to a player
